@@ -33,11 +33,12 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangiethegreat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
       </td>
       <td>
-      
+        <img src="https://github-contributor-stats.vercel.app/api?username=jangiethegreat&limit=5&theme=dark&combine_all_yearly_contributions=true" />
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
