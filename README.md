@@ -2,7 +2,7 @@
 
 
 <div align="center">
-# 💫 About Me:
+💫 About Me:
 Hi Im Jang a Full Stack Developer
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
