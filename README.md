@@ -4,6 +4,7 @@
 <div align="center">
 💫 About Me:<br>
 ## <span style="font-size: 2.5rem; font-weight: bold;">Hi, I'm Jang, a Full Stack Developer</span>
+![Snake animation](https://github.com/jangiethegreate/jangiethegreate/blob/output/github-contribution-grid-snake.svg)
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 ## 🏆 GitHub Trophies
