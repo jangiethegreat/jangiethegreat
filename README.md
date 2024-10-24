@@ -3,7 +3,7 @@
 
 <div align="center">
 💫 About Me:<br>
-## <span style="font-size: 2.5rem; font-weight: bold;">Hi, I'm Jang, a Full Stack Developer</span>
+<span style="font-size: 2.5rem; font-weight: bold;">Hi, I'm Jang, a Full Stack Developer</span>
 
 
 
