@@ -4,11 +4,11 @@
 <div align="center">
 💫 About Me:<br>
 ## <span style="font-size: 2.5rem; font-weight: bold;">Hi, I'm Jang, a Full Stack Developer</span>
-![snake gif](https://github.com/jangiethegreat/jangiethegreat/blob/output/github-snake-dark.svg)
+
 
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
-
+![snake gif](https://github.com/jangiethegreat/jangiethegreat/blob/output/github-snake-dark.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jangiethegreat&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
