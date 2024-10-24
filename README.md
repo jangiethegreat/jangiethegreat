@@ -8,7 +8,6 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
-![Snake animation](https://github.com/jangiethegreate/my-repo-name/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jangiethegreat&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
