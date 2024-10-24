@@ -18,7 +18,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.jangiethegreat }} # Use your GitHub username
+          github_user_name: ${{jangiethegreat}} # Use your GitHub username
 
       # Upload the snake.svg to the dist folder
       - name: Upload Snake SVG
