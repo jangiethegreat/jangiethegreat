@@ -19,6 +19,6 @@ Hi Im Jang a Full Stack Developer
 ![](https://github-contributor-stats.vercel.app/api?username=jangiethegreat&limit=5&theme=vue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jangiethegreat&icon=1&color=4)](https://visitcount.itsvg.in)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
