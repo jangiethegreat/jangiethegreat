@@ -3,7 +3,7 @@
 
 <div align="center">
 💫 About Me:<br>
-Hi Im Jang a Full Stack Developer
+<div class="fs-1 fw-bold">Hi Im Jang a Full Stack Developer</div>
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 ## 🏆 GitHub Trophies
