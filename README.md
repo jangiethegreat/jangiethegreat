@@ -7,8 +7,8 @@
 
 
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 ![snake gif](https://github.com/jangiethegreat/jangiethegreat/blob/output/github-snake-dark.svg)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jangiethegreat&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
