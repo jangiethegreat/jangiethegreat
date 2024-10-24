@@ -65,13 +65,14 @@ Databases:
 Server & Hosting: 
 <div style="margin-top:10dp;">
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Hostinger Badge](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white)
-![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
-![CentOS Badge](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white)
-![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![cPanel Badge](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  
+![Hostinger Badge](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white)  
+![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)  
+![CentOS Badge](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white)  
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)  
+![cPanel Badge](https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white)  
+
 </div>
 
 DevOps & Tools:
@@ -113,7 +114,7 @@ Notes:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 </div>
-# 📊 GitHub Stats:
+📊 GitHub Stats:
 <div align="center">
   <table style="border: 0;">
     <tr>
