@@ -33,8 +33,8 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jangiethegreat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
       </td>
       <td>
-        <!-- You can replace this with another GitHub widget or keep this space for other stats -->
-        <img src="https://github-profile-trophy.vercel.app/?username=jangiethegreat&theme=onedark&column=3&margin-w=15&margin-h=15" />
+        ### ✍️ Random Dev Quote
+        ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
       </td>
     </tr>
   </table>
@@ -43,8 +43,7 @@
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jangiethegreat&limit=5&theme=dark&combine_all_yearly_contributions=true)
