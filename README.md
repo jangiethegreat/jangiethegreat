@@ -2,6 +2,8 @@
 
 ##💫 About Me:<br>
 <div align="center">
+  
+<img src="https://github.com/your-username.png" alt="GitHub Profile Image" width="150" height="150" style="border-radius: 50%;">
 
 <span style="font-size: 2.5rem; font-weight: bold;">Hi, I'm Jang, a Full Stack Developer</span>
 
