@@ -1,8 +1,8 @@
 
 
-
-<div align="center">
 ##💫 About Me:<br>
+<div align="center">
+
 <span style="font-size: 2.5rem; font-weight: bold;">Hi, I'm Jang, a Full Stack Developer</span>
 
 
