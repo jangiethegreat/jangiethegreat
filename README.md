@@ -3,8 +3,9 @@
 
 <div align="center">
   
-<img src="https://github.com/jangiethegreat.png" alt="GitHub Profile Image" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
-💫 About Me:<br>
+ <img src="https://github.com/jangiethegreat.png" alt="GitHub Profile Image" 
+       style="width: 150px; height: 150px; border-radius: 50% !important; object-fit: cover; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+  <br>💫 About Me:<br>
 <span style="font-size: 2.5rem; font-weight: bold;">Hi, I'm Jang, a Full Stack Developer</span>
 
 
